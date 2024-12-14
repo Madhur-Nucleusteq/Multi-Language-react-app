@@ -61,7 +61,7 @@ function Content() {
                         <Card.Img
                             variant="top"
                             src={companies}
-                            style={{ borderRadius: "10%", height: "350px", width: "700px" }}
+                            style={{ height: "350px", width: "700px" }}
                         />
                     </Card>
                 </Col>
