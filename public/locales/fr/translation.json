@@ -1,5 +1,41 @@
 {
-    "welcome": "Bienvenue dans notre application",
-    "description": "Ceci est un exemple d'application React multilingue.",
-    "language": "Langue"
+    "navbar": {
+        "app_name": "Application Multilingue",
+        "language": "Langue",
+        "home": "Accueil",
+        "contact": "Contactez"
+    },
+    "home": {
+        "title": "Elon Musk",
+        "tesla_title": "Tesla",
+        "spacex_title": "Space X",
+        "other_title": "Autres Entreprises",
+        "elon_musk_biography": "Elon Musk est un entrepreneur et innovateur transformateur, animé par une vision de changer le monde. En tant que PDG de Tesla, il a mené la révolution des véhicules électriques, repoussant les limites de l'énergie durable. Grâce à SpaceX, il vise à rendre les voyages spatiaux abordables et à ouvrir la voie à la colonisation humaine de Mars. Ses audacieuses entreprises s'étendent à Neuralink, qui explore les interfaces cerveau-ordinateur, et à The Boring Company, qui se concentre sur la technologie de tunneling. La poursuite incessante de l'innovation par Musk lui a valu la reconnaissance d'un Tony Stark moderne, visant toujours à défier le statu quo. Ses entreprises reflètent non seulement sa vision futuriste mais aussi son engagement à aborder des problèmes mondiaux critiques comme le changement climatique. Malgré de nombreux défis et revers, la résilience et la pensée non conventionnelle de Musk continuent d'inspirer beaucoup. Il est une figure polarisante, souvent sujet à des débats publics, mais son influence sur la technologie et la société est indéniablement profonde.",
+        "elon_musk_biography_tesla": "Elon Musk a cofondé et dirige Tesla, SpaceX, Neuralink et The Boring Company. En tant que cofondateur et PDG de Tesla, Elon supervise toute la conception des produits, l'ingénierie et la fabrication mondiale des véhicules électriques de la société, des produits de batterie et des produits solaires. Depuis la création de l'entreprise en 2003, la mission de Tesla a été d'accélérer la transition mondiale vers une énergie durable. Le premier produit Tesla, la voiture de sport Roadster, a fait ses débuts en 2008, suivi par la berline Model S, introduite en 2012, et le SUV Model X, lancé en 2015. Le Model S a reçu le prix de la Meilleure Voiture Générale de Consumer Reports et a été nommé Ultimate Car of the Year par Motor Trend, tandis que le Model X a été le premier SUV à obtenir des notes de sécurité 5 étoiles dans chaque catégorie et sous-catégorie dans les tests de la National Highway Traffic Safety Administration. En 2017, Tesla a commencé les livraisons du Model 3, un véhicule électrique de masse avec plus de 320 miles d'autonomie, et a dévoilé le Tesla Semi, conçu pour économiser aux propriétaires au moins 200 000 dollars sur un million de miles uniquement en coûts de carburant. En 2019, Tesla a dévoilé le Cybertruck, qui aura une meilleure utilité qu'un camion traditionnel et plus de performances qu'une voiture de sport, ainsi que le SUV compact Model Y, dont les livraisons aux clients ont commencé au début de 2020. Tesla produit également trois produits de stockage d'énergie, la batterie domestique Powerwall, la batterie commerciale Powerpack, et le Megapack, conçu pour les installations à grande échelle. En 2016, Tesla est devenue la première entreprise d'énergie durable verticalement intégrée au monde avec l'acquisition de SolarCity, le principal fournisseur de systèmes d'énergie solaire aux États-Unis, et en 2017 a sorti le Solar Roof - un produit de génération d'énergie beau et abordable.",
+        "elon_musk_biography_spacex": "En tant que designer principal chez SpaceX, Elon supervise le développement des fusées et des engins spatiaux pour des missions en orbite terrestre et finalement vers d'autres planètes. En 2008, le Falcon 1 de SpaceX a été la première fusée à carburant liquide développée par le secteur privé à atteindre l'orbite, et SpaceX a marqué l'histoire en 2017 en réutilisant à la fois une fusée Falcon 9 et un vaisseau Dragon pour la première fois. Peu après, le Falcon Heavy, la fusée opérationnelle la plus puissante du monde par un facteur de deux, a effectué son premier vol en 2018. En 2019, la version du vaisseau Dragon capable de transporter des équipages a terminé sa première mission de démonstration, et la société fera voler des astronautes de la NASA vers la Station Spatiale Internationale pour la première fois en 2020. S'appuyant sur ces réussites, SpaceX développe Starship - un système de transport entièrement réutilisable qui transportera des équipages et des cargaisons vers la Lune, Mars et au-delà - et Starlink, qui fournira un accès Internet haut débit aux endroits où l'accès a été peu fiable, coûteux ou totalement indisponible. En pionnier des fusées réutilisables, SpaceX poursuit l'objectif à long terme de rendre l'humanité une espèce multi-planétaire en créant une ville autosuffisante sur Mars.",
+        "elon_musk_biography_other": "Elon est également PDG de Neuralink, qui développe des interfaces cerveau-machine à très haute bande passante pour connecter le cerveau humain aux ordinateurs. Il a également lancé The Boring Company, qui combine une technologie de tunneling rapide et abordable avec un système de transport public entièrement électrique afin d'atténuer la congestion urbaine écrasante et de permettre des déplacements longue distance à grande vitesse. The Boring Company a construit un tunnel de R&D de 1,15 mile à Hawthorne, et construit actuellement le Vegas Loop, un système de transport public au Las Vegas Convention Center. Précédemment, Elon a cofondé et vendu PayPal, le principal système de paiement Internet au monde, et Zip2, l'un des premiers services de cartes et d'itinéraires sur Internet."
+    },
+    "contact_form": {
+        "contact_us": "Contactez-nous",
+        "first_name": "Prénom",
+        "first_name_placeholder": "Entrez votre prénom",
+        "last_name": "Nom de famille",
+        "last_name_placeholder": "Entrez votre nom de famille",
+        "email": "Adresse e-mail",
+        "email_placeholder": "Entrez votre adresse e-mail",
+        "mobile": "Numéro de mobile",
+        "mobile_placeholder": "Entrez votre numéro de mobile",
+        "address": "Adresse",
+        "address_placeholder": "Entrez votre adresse",
+        "address2": "Adresse 2",
+        "address2_placeholder": "Entrez des détails d'adresse supplémentaires",
+        "state": "État",
+        "state_placeholder": "Sélectionnez votre état",
+        "city": "Ville",
+        "city_placeholder": "Entrez votre ville",
+        "zip_code": "Code postal",
+        "zip_code_placeholder": "Entrez votre code postal",
+        "submit": "Soumettre"
+    },
+    "lorem50": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum corrupti culpa eaque? Repellat quis cumque facilis adipisci nemo commodi nulla qui natus quod mollitia ea itaque incidunt, molestiae accusantium nisi impedit perspiciatis dolorem assumenda, doloribus quos excepturi. A consequuntur similique minima, corrupti deleniti vero quod fugiat, vitae molestias, laudantium nam."
 }
