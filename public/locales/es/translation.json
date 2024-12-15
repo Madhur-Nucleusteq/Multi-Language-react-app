@@ -1,0 +1,40 @@
+{
+    "navbar": {
+        "app_name": "Aplicación-Multi-Idioma",
+        "language": "Idioma",
+        "home": "Inicio"
+    },
+    "home": {
+        "title": "Elon Musk",
+        "tesla_title": "Tesla",
+        "spacex_title": "Space X",
+        "other_title": "Otras Compañías",
+        "elon_musk_biography": "Elon Musk es un empresario e innovador transformador, impulsado por una visión de cambiar el mundo. Como CEO de Tesla, ha liderado la revolución de los vehículos eléctricos, ampliando los límites de la energía sostenible. A través de SpaceX, busca hacer que los viajes espaciales sean asequibles y allanar el camino para la colonización humana de Marte. Sus audaces iniciativas también incluyen Neuralink, que explora interfaces cerebro-computadora, y The Boring Company, que se centra en tecnología de túneles. La búsqueda incansable de la innovación por parte de Musk le ha valido el reconocimiento como un Tony Stark moderno, siempre desafiando el statu quo. Sus proyectos no solo reflejan su visión futurista, sino también su compromiso de abordar problemas globales críticos como el cambio climático. A pesar de enfrentar numerosos desafíos y contratiempos, la resiliencia y el pensamiento no convencional de Musk continúan inspirando a muchos. Es una figura polarizante, a menudo generando debates públicos, pero su influencia en la tecnología y la sociedad es innegablemente profunda.",
+        "elon_musk_biography_tesla": "Elon Musk cofundó y lidera Tesla, SpaceX, Neuralink y The Boring Company. Como cofundador y CEO de Tesla, Elon dirige todo el diseño de productos, ingeniería y fabricación global de los vehículos eléctricos, productos de baterías y productos de energía solar de la compañía. Desde su fundación en 2003, la misión de Tesla ha sido acelerar la transición del mundo hacia la energía sostenible. El primer producto de Tesla, el coche deportivo Roadster, debutó en 2008, seguido por el sedán Model S, introducido en 2012, y el SUV Model X, lanzado en 2015. El Model S recibió el premio de Mejor Automóvil General de Consumer Reports y fue nombrado el Automóvil Definitivo del Año por Motor Trend, mientras que el Model X fue el primer SUV en obtener calificaciones de seguridad de 5 estrellas en todas las categorías y subcategorías en las pruebas de la Administración Nacional de Seguridad del Tráfico en Carreteras. En 2017, Tesla comenzó las entregas del Model 3, un vehículo eléctrico de mercado masivo con más de 320 millas de autonomía, y presentó el Tesla Semi, diseñado para ahorrar a los propietarios al menos $200,000 en un millón de millas basándose solo en costos de combustible. En 2019, Tesla presentó el Cybertruck, que tendrá mejor utilidad que un camión tradicional y más rendimiento que un coche deportivo, así como el Model Y, un SUV compacto cuyas entregas comenzaron a principios de 2020. Tesla también produce tres productos de almacenamiento de energía: la batería doméstica Powerwall, la batería comercial Powerpack y Megapack, diseñada para instalaciones a escala de servicios públicos. En 2016, Tesla se convirtió en la primera compañía de energía sostenible verticalmente integrada del mundo con la adquisición de SolarCity, el proveedor líder de sistemas de energía solar en los Estados Unidos, y en 2017 lanzó el Solar Roof: un producto de generación de energía hermoso y asequible.",
+        "elon_musk_biography_spacex": "Como diseñador principal en SpaceX, Elon supervisa el desarrollo de cohetes y naves espaciales para misiones en la órbita terrestre y, en última instancia, a otros planetas. En 2008, el Falcon 1 de SpaceX fue el primer cohete de combustible líquido desarrollado de manera privada en llegar a la órbita, y SpaceX hizo historia nuevamente en 2017 al reutilizar tanto un cohete Falcon 9 como la nave Dragon por primera vez. Poco después, el Falcon Heavy, el cohete operativo más potente del mundo por un factor de dos, completó su primer vuelo en 2018. En 2019, la versión de Dragon capaz de transportar tripulación completó su primera misión de demostración, y la compañía volará astronautas de la NASA a la Estación Espacial Internacional por primera vez en 2020. Basándose en estos logros, SpaceX está desarrollando Starship, un sistema de transporte completamente reutilizable que llevará tripulación y carga a la Luna, Marte y más allá, y Starlink, que ofrecerá internet de banda ancha de alta velocidad en lugares donde el acceso ha sido poco fiable, costoso o completamente inexistente. Al innovar con cohetes reutilizables, SpaceX persigue el objetivo a largo plazo de hacer que los humanos sean una especie multiplanetaria mediante la creación de una ciudad autosostenible en Marte.",
+        "elon_musk_biography_other": "Elon también es CEO de Neuralink, que desarrolla interfaces cerebro-máquina de ancho de banda ultraalto para conectar el cerebro humano con computadoras. También fundó The Boring Company, que combina tecnología de túneles rápida y asequible con un sistema de transporte público totalmente eléctrico para aliviar la congestión urbana aplastante y permitir viajes de larga distancia a alta velocidad. The Boring Company construyó un túnel de investigación y desarrollo de 1.15 millas en Hawthorne y actualmente está construyendo el Vegas Loop, un sistema de transporte público en el Centro de Convenciones de Las Vegas. Anteriormente, Elon cofundó y vendió PayPal, el sistema de pagos por Internet líder en el mundo, y Zip2, uno de los primeros servicios de mapas y direcciones en línea."
+    },
+    "contact_form": {
+        "contact_us": "Contáctanos",
+        "first_name": "Nombre",
+        "first_name_placeholder": "Ingresa tu nombre",
+        "last_name": "Apellido",
+        "last_name_placeholder": "Ingresa tu apellido",
+        "email": "Correo Electrónico",
+        "email_placeholder": "Ingresa tu correo electrónico",
+        "mobile": "Número de Teléfono",
+        "mobile_placeholder": "Ingresa tu número de teléfono",
+        "address": "Dirección",
+        "address_placeholder": "Ingresa tu dirección",
+        "address2": "Dirección 2",
+        "address2_placeholder": "Ingresa detalles adicionales de la dirección",
+        "state": "Estado",
+        "state_placeholder": "Selecciona tu estado",
+        "city": "Ciudad",
+        "city_placeholder": "Ingresa tu ciudad",
+        "zip_code": "Código Postal",
+        "zip_code_placeholder": "Ingresa tu código postal",
+        "submit": "Enviar"
+    },
+    "lorem50": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum corrupti culpa eaque? Repellat quis cumque facilis adipisci nemo commodi nulla qui natus quod mollitia ea itaque incidunt, molestiae accusantium nisi impedit perspiciatis dolorem assumenda, doloribus quos excepturi. A consequuntur similique minima, corrupti deleniti vero quod fugiat, vitae molestias, laudantium nam."
+}

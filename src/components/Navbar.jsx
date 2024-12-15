@@ -20,6 +20,9 @@ function MyFooter() {
                     <NavDropdown title={t('navbar.language')} id="basic-nav-dropdown">
                         <NavDropdown.Item onClick={() => changeLanguage('en')}>English</NavDropdown.Item>
                         <NavDropdown.Item onClick={() => changeLanguage('fr')}>French</NavDropdown.Item>
+                        <NavDropdown.Item onClick={() => changeLanguage('es')}>Spanish</NavDropdown.Item>
+                        <NavDropdown.Item onClick={() => changeLanguage('de')}>German</NavDropdown.Item>
+                        <NavDropdown.Item onClick={() => changeLanguage('hi')}>Hindi</NavDropdown.Item>
                     </NavDropdown>
                 </Nav>
             </Navbar.Collapse>

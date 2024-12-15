@@ -1,0 +1,40 @@
+{
+    "navbar": {
+        "app_name": "Mehrsprachige App",
+        "language": "Sprache",
+        "home": "Startseite"
+    },
+    "home": {
+        "title": "Elon Musk",
+        "tesla_title": "Tesla",
+        "spacex_title": "SpaceX",
+        "other_title": "Andere Unternehmen",
+        "elon_musk_biography": "Elon Musk ist ein visionärer Unternehmer und Innovator, der darauf abzielt, die Welt zu verändern. Als CEO von Tesla hat er die Revolution der Elektrofahrzeuge angeführt und die Grenzen nachhaltiger Energie erweitert. Durch SpaceX verfolgt er das Ziel, die Raumfahrt erschwinglich zu machen und den Weg für die Besiedlung des Mars zu ebnen. Seine mutigen Unternehmungen erstrecken sich auch auf Neuralink, das Gehirn-Computer-Schnittstellen erforscht, und The Boring Company, die sich auf Tunnelbautechnologie konzentriert. Musks unermüdliche Innovationssuche hat ihm Anerkennung als moderner Tony Stark eingebracht, der stets versucht, den Status quo herauszufordern. Seine Unternehmungen spiegeln nicht nur seine futuristische Vision wider, sondern auch sein Engagement für die Lösung bedeutender globaler Probleme wie den Klimawandel. Trotz zahlreicher Herausforderungen und Hindernisse inspiriert Musks Beharrlichkeit und unkonventionelles Denken weiterhin viele Menschen. Er ist eine polarisierende Persönlichkeit, die oft öffentliche Debatten auslöst, aber sein Einfluss auf Technologie und Gesellschaft ist zweifellos tiefgreifend.",
+        "elon_musk_biography_tesla": "Elon Musk ist Mitbegründer und Leiter von Tesla, SpaceX, Neuralink und The Boring Company. Als Mitbegründer und CEO von Tesla leitet Elon das Design, die Technik und die weltweite Produktion der Elektrofahrzeuge, Batterieprodukte und Solarenergieprodukte des Unternehmens. Seit der Gründung des Unternehmens im Jahr 2003 ist Teslas Mission, den Übergang der Welt zu nachhaltiger Energie zu beschleunigen. Das erste Tesla-Produkt, der Roadster-Sportwagen, wurde 2008 eingeführt, gefolgt von der Limousine Model S im Jahr 2012 und dem SUV Model X im Jahr 2015. Das Model S wurde mit dem Titel „Best Overall Car“ von Consumer Reports ausgezeichnet und von Motor Trend zum „Ultimate Car of the Year“ gekürt, während das Model X das erste SUV war, das in allen Kategorien und Unterkategorien der National Highway Traffic Safety Administration eine 5-Sterne-Sicherheitsbewertung erhielt. Im Jahr 2017 begann Tesla mit der Auslieferung des Model 3, eines Elektrofahrzeugs für den Massenmarkt mit einer Reichweite von über 320 Meilen, und stellte den Tesla Semi vor, der so konzipiert ist, dass er Besitzern auf der Grundlage von Kraftstoffeinsparungen über eine Million Meilen hinweg mindestens 200.000 US-Dollar einspart. Im Jahr 2019 enthüllte Tesla den Cybertruck, der im Vergleich zu herkömmlichen Lastwagen eine bessere Nutzbarkeit und mehr Leistung als Sportwagen bietet, sowie das kompakte SUV Model Y, dessen Kundenauslieferung Anfang 2020 begann. Tesla stellt auch drei Energiespeicherprodukte her: die Heimbatterie Powerwall, die kommerzielle Batterie Powerpack und die für Versorgungsunternehmen konzipierte Megapack. Im Jahr 2016 wurde Tesla durch die Übernahme von SolarCity, einem führenden Anbieter von Solarsystemen in den USA, und die Einführung des Solar Roof im Jahr 2017 – eines schönen und erschwinglichen Energieerzeugungsprodukts – zum weltweit ersten vertikal integrierten Unternehmen für nachhaltige Energie.",
+        "elon_musk_biography_spacex": "Als Chefdesigner bei SpaceX überwacht Elon die Entwicklung von Raketen und Raumfahrzeugen für Missionen in die Erdumlaufbahn und schließlich zu anderen Planeten. Im Jahr 2008 war die SpaceX Falcon 1 die erste privat entwickelte Flüssigtreibstoffrakete, die die Umlaufbahn erreichte, und SpaceX schrieb 2017 Geschichte, indem es die Falcon 9-Rakete und das Dragon-Raumschiff zum ersten Mal erneut startete. Kurz darauf absolvierte die Falcon Heavy, die weltweit leistungsstärkste operative Rakete, 2018 ihren Erstflug. Im Jahr 2019 absolvierte SpaceXs bemanntes Dragon-Raumschiff seine erste Demonstrationsmission, und das Unternehmen wird 2020 erstmals NASA-Astronauten zur Internationalen Raumstation fliegen. Auf diesen Erfolgen aufbauend entwickelt SpaceX Starship – ein vollständig wiederverwendbares Transportsystem, das Besatzung und Fracht zum Mond, Mars und darüber hinaus bringen wird – sowie Starlink, das Hochgeschwindigkeits-Breitbandinternet an Orte bringen wird, an denen der Zugang unzuverlässig, teuer oder völlig unzugänglich war. Als Pionier von wiederverwendbaren Raketen ist SpaceX’ langfristiges Ziel, die Menschheit zu einer multiplanetaren Spezies zu machen, indem es eine selbsttragende Stadt auf dem Mars aufbaut.",
+        "elon_musk_biography_other": "Elon ist auch CEO von Neuralink, das ultrahochbreitbandige Gehirn-Maschine-Schnittstellen entwickelt, um das menschliche Gehirn mit Computern zu verbinden. Er gründete auch The Boring Company, die schnelle, kostengünstige Tunnelbautechnologien mit einem vollständig elektrischen öffentlichen Verkehrssystem kombiniert, um die lähmende städtische Überlastung zu verringern und Hochgeschwindigkeits-, Langstreckenreisen zu ermöglichen. The Boring Company hat einen 1,15 Meilen langen F&E-Tunnel in Hawthorne gebaut und entwickelt derzeit ein öffentliches Verkehrssystem namens Vegas Loop im Las Vegas Convention Center. Zuvor war Elon Mitbegründer und Verkäufer von PayPal, dem weltweit führenden Internetzahlungssystem, sowie von Zip2, einem der ersten Internetkarten- und Routing-Dienste."
+    },
+    "contact_form": {
+        "contact_us": "Kontaktieren Sie uns",
+        "first_name": "Vorname",
+        "first_name_placeholder": "Geben Sie Ihren Vornamen ein",
+        "last_name": "Nachname",
+        "last_name_placeholder": "Geben Sie Ihren Nachnamen ein",
+        "email": "E-Mail-Adresse",
+        "email_placeholder": "Geben Sie Ihre E-Mail-Adresse ein",
+        "mobile": "Mobilnummer",
+        "mobile_placeholder": "Geben Sie Ihre Mobilnummer ein",
+        "address": "Adresse",
+        "address_placeholder": "Geben Sie Ihre Adresse ein",
+        "address2": "Adresse 2",
+        "address2_placeholder": "Geben Sie zusätzliche Adressdetails ein",
+        "state": "Bundesland",
+        "state_placeholder": "Wählen Sie Ihr Bundesland aus",
+        "city": "Stadt",
+        "city_placeholder": "Geben Sie Ihre Stadt ein",
+        "zip_code": "Postleitzahl",
+        "zip_code_placeholder": "Geben Sie Ihre Postleitzahl ein",
+        "submit": "Absenden"
+    },
+    "lorem50": "Lorem Ipsum, dolor sit amet consectetur adipisicing elit. Harum corrupti culpa atque? Reprehenderit quis cumque facilis adipisci nemo commodique nulla qui natus quod molestiae accusantium nisi impedit perspiciatis dolorem assumenda, doloribus quos excepturi. A consequatur similique minima, corrupti deleniti vero quod fugiat."
+}
